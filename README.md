@@ -70,3 +70,9 @@ Micro-Blog is a simple microservice application which is written in GoLang
 * Start the application by running - `./blog` (give appropriate name of your build here 
 in my case it is `blog`)
 * Have fun!!! Start accessing above mentioned APIs
+
+## Future scope:
+* Dockerize this microservice
+* Create helm-chart for easy deployment on Kubernetes along with other MySQL container which will be used as database
+* Add more features
+* Create Contributing guidelines
